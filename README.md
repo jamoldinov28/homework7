@@ -1,2 +1,2 @@
 # Telegram 
-[Jamoliddinov](https://tm.com/@Biloliddinovich)
+[Jamoliddinov](https://t.me/@Biloliddinovich)
