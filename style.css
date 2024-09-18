@@ -1,0 +1,87 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: sans-serif;
+}
+body{
+      background: url("Desktop.png");
+}
+.card{
+       width: 310px;
+       height: auto;
+       background: white;
+       margin: 30px auto;
+       border-radius: 14px;
+       padding: 20px;
+}
+.card__image{
+              width: 90px;
+              height: 90px;
+              border-radius: 50%;
+              display: block;
+              margin: auto;
+}
+.card__name{
+             text-align: center;
+             margin-top: 12px;     
+}
+.card__username{
+                  color: grey;
+                  text-align: center;
+                  margin: 8px;
+                  font-size: 14px;
+}
+.card__bio{
+             text-align: center;
+             margin-top: 14px;
+}
+.card__btn{
+             padding: 8px 16px;
+             border-radius: 50px;
+             background: dodgerblue;
+             color: white;
+             text-align: center;
+             display: block;
+             margin: 0 auto;
+             margin-top: 20px;
+             border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
